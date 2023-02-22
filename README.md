@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# iewnaud.github.io
+Repository for Duan Wei's academic research website.
