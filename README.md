@@ -1,2 +1,1 @@
-# iewnaud.github.io
-Repository for Duan Wei's academic research website.
+# This is my personal website https://iewnaud.github.io
