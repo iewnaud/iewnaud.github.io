@@ -31,11 +31,21 @@ During October 2023 and October 2024, I was a joint Ph.D student at <a href="htt
 <div class='paper-box-text' markdown="1">
 
 [Characteristics of submesoscale compensated/reinforced fronts in the northern Bay of Bengal](https://doi.org/10.1029/2024JC021204)
+**Duan Wei**, Cheng Xuhua, Zhou Yifei, Jonathan Gula (2024)
+Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.1029/2024JC021204
 
-**Duan Wei**, Cheng Xuhua, Zhou Yifei, Jonathan Gula
+[Features and mechanisms of sea surface salinity intraseasonal variability in the Northern Bay of Bengal](https://doi.org/10.1186/s40562-024-00334-w)
+Cui Rong., Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
+Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 
-**Journal of Geophysical Research: Oceans**
-- In Pulication. 
+[Dynamics of submesoscale processes and their influence on vertical heat transport in the southeastern tropical Indian Ocean](https://doi.org/10.1007/s10236-024-01628-5)
+Zhou Yifei, **Duan Wei**, Cheng Xuhua (2024) 
+Ocean Dynamics, 1-18. https://doi.org/10.1007/s10236-024-01628-5
+
+[Seasonality and potential generation mechanisms of submesoscale processes in the northern Bay of Bengal](https://doi.org/10.1016/j.dsr.2024.104318) 
+Zhou Yifei, **Duan Wei**, Cao Haijin, Zhou Guidi, Cui Rong, Cheng Xuhua (2024)
+Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://doi.org/10.1016/j.dsr.2024.104318
+  
 </div>
 </div>
 
