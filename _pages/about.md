@@ -74,7 +74,7 @@ Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 
 Zhou Yifei, **Duan Wei**, Cheng Xuhua (2024) 
 
-Ocean Dynamics, 1-18. https://doi.org/10.1007/s10236-024-01628-5
+Ocean Dynamics, 74, 685–702. https://doi.org/10.1007/s10236-024-01628-5
 
 </div>
 </div>
