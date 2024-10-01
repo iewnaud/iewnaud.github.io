@@ -27,7 +27,7 @@ During October 2023 and October 2024, I was a joint Ph.D student at <a href="htt
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGRO 2024</div><img src='images/jgro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGRO 2024</div><img src='../images/jgro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characteristics of submesoscale compensated/reinforced fronts in the northern Bay of Bengal](https://doi.org/10.1029/2024JC021204)
@@ -39,7 +39,7 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='images/gl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='../images/gl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Features and mechanisms of sea surface salinity intraseasonal variability in the Northern Bay of Bengal](https://doi.org/10.1186/s40562-024-00334-w)
@@ -51,7 +51,7 @@ Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2024</div><img src='images/od.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2024</div><img src='../images/od.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamics of submesoscale processes and their influence on vertical heat transport in the southeastern tropical Indian Ocean](https://doi.org/10.1007/s10236-024-01628-5)
@@ -63,7 +63,7 @@ Ocean Dynamics, 1-18. https://doi.org/10.1007/s10236-024-01628-5
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='images/dsri.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/dsri.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Seasonality and potential generation mechanisms of submesoscale processes in the northern Bay of Bengal](https://doi.org/10.1016/j.dsr.2024.104318) 
