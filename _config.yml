@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Duan Wei"
-description              : "Ph.D student at Hohai University. "
+description              : "Ph.D student at College of Oceanography, Hohai University. "
 repository               : "iewnaud.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Duan Wei"
   avatar           : "images/head_picture.png"
-  bio              : "College of Oceanography"
+  bio              : "Hohai University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
