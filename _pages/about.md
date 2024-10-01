@@ -34,10 +34,10 @@ redirect_from:
 # 💬 Academic Conferences
 - **2024.04**: The General Assembly 2024 of the European Geosciences Union (EGU), Vienna, **Oral**
 - **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Oral**
-- **2023.05**: The 4th Lingfeng Student Forum， Xiamen, **Oral**
+- **2023.05**: The 4th Lingfeng Student Forum, Xiamen, **Oral**
 - **2019.11**: 10th International Symposium on Tropical Marine Environmental Change (MEC), Guangzhou, **Poster**
-- **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya **Poster**
-- **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore **Poster**
+- **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya, **Poster**
+- **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Poster**
 - **2018.10**: South China Sea Annual Meeting (SCSAM), Nanjing 
 
 # 📝 Publications 
