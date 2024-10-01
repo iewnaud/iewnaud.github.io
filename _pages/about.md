@@ -84,3 +84,50 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/grl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Regime Shift of the Sea Level Trend in the South China Sea Modulated by the Tropical Pacific Decadal Variability](https://doi.org/10.1029/2022GL102708)
+
+Cheng Xuhua, Zhao Mingyu, **Duan Wei**, Jiang Long, Chen Jiajia, Yang Chengcheng, Zhou Yifei (2023)
+
+Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL102708
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/jpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Seasonal Features and Potential Mechanisms of Submesoscale Processes in the Southern Bay of Bengal During 2011-2012](https://doi.org/10.1175/JPO-D-22-0078.1)
+  
+Cheng Xuhua, Li Lanman, Jing Zhiyou, Cao Haijin, Zhou Guidi, **Duan Wei**, Zhou Yifei (2023). 
+
+Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JPO-D-22-0078.1
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/aos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
+
+**Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
+
+Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/jol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interannual variability of the spring Wyrtki Jet](https://doi.org/10.1007/s00343-020-9330-3)
+
+Deng Kangpping, Cheng Xuhua, Feng Tao, Ma Tian, **Duan Wei**, Chen Jiajia (2021)
+
+Journal of Oceanology and Limnology, 39(1), 26-44. https://doi.org/10.1007/s00343-020-9330-3
+
+</div>
+</div>
