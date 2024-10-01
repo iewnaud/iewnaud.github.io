@@ -17,8 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student of Physical Oceanography at <a href="http://hyxy.hhu.edu.cn">College of Oceanography</a>, <a href="https://www.hhu.edu.cn/">Hohai University</a>. My research interests include ocean submesoscale processes, ocean salinity and ocean circulation.
-My hobbies including badminton, tabel tennis, basketball, guita and piano.
+# 📖 Educations
+- **2021.09 - 2025.06 (now)**: Doctor of Science in Marine Science, College of Oceanography, Hohai University, supervised by [Prof. Cheng Xuhua](https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm)
+- **2023.10 - 2024.10**: Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale (LOPS), Institut Universitaire Européen de la Mer (IUEM), Université de Bretagne Occidentale (UBO), collaborate with [Jonathan Gula](https://www.jgula.fr/), [Xavier Carton](https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/CARTON-Xavier/) and [Dante Napolitano](https://www.researchgate.net/profile/Dante-Napolitano)
+- **2017.09 - 2020.06**: Master of Science in Marine Science, College of Oceanography, Hohai University, supervised by [Prof. Cheng Xuhua](https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm)
+- **2013.09 - 2017.06**: Bachelor of Engineering in Water Engineering, College of Hydrology and Water Resources, Hohai University
 
 # 🎖 Honors and Awards
 - **2024.02**: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st IMT Cup
@@ -28,18 +31,13 @@ My hobbies including badminton, tabel tennis, basketball, guita and piano.
 - **2020.9-2021.2**: &nbsp;Assistant Engineer, China Civil Environment Co., Ltd.
 - **2019.3-2019.5**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
-# 📖 Educations
-- **2021.09 - 2025.06 (now)**: Doctor of Science in Marine Science, College of Oceanography, Hohai University, supervised by [Prof. Cheng Xuhua](https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm)
-- **2023.10 - 2024.10**: Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale (LOPS), Institut Universitaire Européen de la Mer (IUEM), Université de Bretagne Occidentale (UBO), collaborate with [Jonathan Gula](https://www.jgula.fr/), [Xavier Carton](https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/CARTON-Xavier/) and [Dante Napolitano](https://www.researchgate.net/profile/Dante-Napolitano)
-- **2017.09 - 2020.06**: Master of Science in Marine Science, College of Oceanography, Hohai University, supervised by [Prof. Cheng Xuhua](https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm)
-- **2013.09 - 2017.06**: Bachelor of Engineering in Water Engineering, College of Hydrology and Water Resources, Hohai University
-
 # 💬 Academic Conferences
-- **2024.04**: The General Assembly 2024 of the European Geosciences Union (EGU), Vienna
-- **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore
-- **2019.11**: 10th International Symposium on Tropical Marine Environmental Change (MEC), Guangzhou
-- **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya
-- **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore
+- **2024.04**: The General Assembly 2024 of the European Geosciences Union (EGU), Vienna, **Oral**
+- **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Oral**
+- **2023.05**: The 4th Lingfeng Student Forum， Xiamen, **Oral**
+- **2019.11**: 10th International Symposium on Tropical Marine Environmental Change (MEC), Guangzhou, **Poster**
+- **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya **Poster**
+- **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore **Poster**
 - **2018.10**: South China Sea Annual Meeting (SCSAM), Nanjing 
 
 # 📝 Publications 
