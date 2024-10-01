@@ -19,21 +19,20 @@ redirect_from:
 
 I am currently a Ph.D. student of Physical Oceanography at <a href="http://hyxy.hhu.edu.cn">College of Oceanography</a>, <a href="https://www.hhu.edu.cn/">Hohai University</a>. My research interests include ocean submesoscale processes, ocean salinity and ocean circulation.
 
-During October 2023 and October 2024, I was a joint Ph.D student at <a href="https://www.umr-lops.fr/">Laboratoire d'Océanographie Physique et Spatiale</a>, <a href="https://www-iuem.univ-brest.fr/">Institut Universitaire Européen de la Mer</a>, <a href="https://www.univ-brest.fr/fr">Université de Bretagne Occidentale</a>
-
 # 🎖 Honors and Awards
-- *2024.02*: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st IMT Cup
-- *2019.10*: &nbsp;🎉🎉 Best Poster Award, South China Sea Annual Meeting 2019
+- **2024.02**: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st IMT Cup
+- **2019.10**: &nbsp;🎉🎉 Best Poster Award, South China Sea Annual Meeting 2019
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)* Doctor of Ocean Science, College of Oceanography, Hohai University
-- *2017.09 - 2020.06* Master of Ocean Science, College of Oceanography, Hohai University
-- *2013.09 - 2017.06* Bacholar of Water Engineering, College of Hydrology and Water Resources, Hohai University
+- **2021.09 - 2025.06 (now)** Doctor of Ocean Science, College of Oceanography, Hohai University
+- **2023.10 - 2024.10** Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale, Institut Universitaire Européen de la Mer, Université de Bretagne Occidentale
+- **2017.09 - 2020.06** Master of Ocean Science, College of Oceanography, Hohai University
+- **2013.09 - 2017.06** Bacholar of Water Engineering, College of Hydrology and Water Resources, Hohai University
 
 # 💬 Academic Conferences
-- *2024.04*, AGU24 Annual Meeting, Vienna
-- *2023.08*, Asia Oceania Geosciences Society (AOGS), Singapore
-- *2019.10*, South China Sea Annual Meeting 2019, Sanya 
+- **2024.04**, AGU24 Annual Meeting, Vienna
+- **2023.08**, Asia Oceania Geosciences Society (AOGS), Singapore
+- **2019.10**, South China Sea Annual Meeting 2019, Sanya 
 
 # 📝 Publications 
 
