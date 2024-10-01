@@ -60,7 +60,7 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 
 [Features and mechanisms of sea surface salinity intraseasonal variability in the Northern Bay of Bengal](https://doi.org/10.1186/s40562-024-00334-w)
 
-Cui Rong., Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
+Cui Rong, Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
 
 Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 
@@ -132,7 +132,7 @@ Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
 
 [Interannual variability of the spring Wyrtki Jet](https://doi.org/10.1007/s00343-020-9330-3)
 
-Deng Kangpping, Cheng Xuhua, Feng Tao, Ma Tian, **Duan Wei**, Chen Jiajia (2021)
+Deng Kangping, Cheng Xuhua, Feng Tao, Ma Tian, **Duan Wei**, Chen Jiajia (2021)
 
 Journal of Oceanology and Limnology, 39(1), 26-44. https://doi.org/10.1007/s00343-020-9330-3
 
