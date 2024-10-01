@@ -36,7 +36,7 @@ redirect_from:
 - **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Oral**
 - **2023.05**: The 4th Lingfeng Student Forum, Xiamen, **Oral**
 - **2022.12**: The 15th National Symposium on Ocean Data Assimilation and Numerical Simulation, Liyang, **Poster**
-- **2019.11**: 10th International Symposium on Tropical Marine Environmental Change (MEC), Guangzhou, **Poster**
+- **2019.11**: The 10th International Symposium on Tropical Marine Environmental Change (MEC), Guangzhou, **Poster**
 - **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya, **Poster**
 - **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Poster**
 - **2018.10**: South China Sea Annual Meeting (SCSAM), Nanjing 
