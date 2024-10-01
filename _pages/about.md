@@ -84,7 +84,7 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/grl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2023</div><img src='../images/grl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Regime Shift of the Sea Level Trend in the South China Sea Modulated by the Tropical Pacific Decadal Variability](https://doi.org/10.1029/2022GL102708)
@@ -96,7 +96,7 @@ Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL1
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/jpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPO 2023</div><img src='../images/jpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Seasonal Features and Potential Mechanisms of Submesoscale Processes in the Southern Bay of Bengal During 2011-2012](https://doi.org/10.1175/JPO-D-22-0078.1)
@@ -108,7 +108,7 @@ Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/aos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
@@ -120,7 +120,7 @@ Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/jol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOL 2021</div><img src='../images/jol.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interannual variability of the spring Wyrtki Jet](https://doi.org/10.1007/s00343-020-9330-3)
