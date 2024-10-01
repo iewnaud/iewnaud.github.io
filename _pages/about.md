@@ -18,21 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student of Physical Oceanography at <a href="http://hyxy.hhu.edu.cn">College of Oceanography</a>, <a href="https://www.hhu.edu.cn/">Hohai University</a>. My research interests include ocean submesoscale processes, ocean salinity and ocean circulation.
+My hobbies including badminton, tabel tennis, basketball, guita and piano.
 
-# 🎖 Honors and Awards
+# 🎖 Experiences and Awards
 - **2024.02**: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st IMT Cup
 - **2019.10**: &nbsp;🎉🎉 Best Poster Award, South China Sea Annual Meeting 2019
+- **2019.3-2019.5**: &nbsp;🎉🎉Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
 # 📖 Educations
-- **2021.09 - 2025.06 (now)** Doctor of Ocean Science, College of Oceanography, Hohai University
-- **2023.10 - 2024.10** Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale, Institut Universitaire Européen de la Mer, Université de Bretagne Occidentale
-- **2017.09 - 2020.06** Master of Ocean Science, College of Oceanography, Hohai University
-- **2013.09 - 2017.06** Bacholar of Water Engineering, College of Hydrology and Water Resources, Hohai University
+- **2021.09 - 2025.06 (now)**: Doctor of Science in Marine Science, College of Oceanography, Hohai University
+- **2023.10 - 2024.10**: Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale (LOPS), Institut Universitaire Européen de la Mer (IUEM), Université de Bretagne Occidentale (UBO)
+- **2017.09 - 2020.06**: Master of Science in Marine Science, College of Oceanography, Hohai University
+- **2013.09 - 2017.06**: Bachelor of Engineering in Water Engineering, College of Hydrology and Water Resources, Hohai University
 
 # 💬 Academic Conferences
-- **2024.04**, AGU24 Annual Meeting, Vienna
-- **2023.08**, Asia Oceania Geosciences Society (AOGS), Singapore
-- **2019.10**, South China Sea Annual Meeting 2019, Sanya 
+- **2024.04**: The General Assembly 2024 of the European Geosciences Union (EGU), Vienna
+- **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore
+- **2019.11**: 10th International Symposium on Tropical Marine Environmental Change (MEC), Guangzhou
+- **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya
+- **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore
+- **2018.10**: South China Sea Annual Meeting (SCSAM), Nanjing 
 
 # 📝 Publications 
 
