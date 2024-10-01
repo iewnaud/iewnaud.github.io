@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Duan Wei (duanwei@hhu.edu.cn)"
-description              : "Ph.D student at College of Oceanography, Hohai University. "
+title                    : "Duan Wei"
+description              : "Ph.D student at College of Oceanography, Hohai University. duanwei@hhu.edu.cn"
 repository               : "iewnaud.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Duan Wei"
   avatar           : "images/head_picture.png"
-  bio              : "Hohai University"
+  bio              : # "Hohai University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
