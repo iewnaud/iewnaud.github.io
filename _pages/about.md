@@ -21,25 +21,19 @@ I am currently a Ph.D. student of Physical Oceanography at <a href="http://hyxy.
 
 During October 2023 and October 2024, I was a joint Ph.D student at <a href="https://www.umr-lops.fr/">Laboratoire d'Océanographie Physique et Spatiale</a>, <a href="https://www-iuem.univ-brest.fr/">Institut Universitaire Européen de la Mer</a>, <a href="https://www.univ-brest.fr/fr">Université de Bretagne Occidentale</a>
 
-# 🔥 News
-- *2024.10*: &nbsp; Leaving France
-- *2023.10*: &nbsp; Arraing France
-- *2023.07*: &nbsp; Get the funding support from China Scholarship Council (CSC)
-
 # 🎖 Honors and Awards
 - *2024.02*: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st IMT Cup
 - *2019.10*: &nbsp;🎉🎉 Best Poster Award, South China Sea Annual Meeting 2019
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (now)* Doctor of Ocean Science, College of Oceanography, Hohai University
+- *2017.09 - 2020.06* Master of Ocean Science, College of Oceanography, Hohai University
+- *2013.09 - 2017.06* Bacholar of Water Engineering, College of Hydrology and Water Resources, Hohai University
 
 # 💬 Academic Conferences
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04*, AGU24 Annual Meeting, Vienna
+- *2023.08*, Asia Oceania Geosciences Society (AOGS), Singapore
+- *2019.10*, South China Sea Annual Meeting 2019, Sanya 
 
 # 📝 Publications 
 
@@ -90,6 +84,4 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
   
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
