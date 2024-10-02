@@ -28,7 +28,7 @@ redirect_from:
 - **2019.10**: &nbsp;🎉🎉 Best Poster Award, South China Sea Annual Meeting 2019
 
 # 💻 Internships and Works
-- **2020.09-2021.02**: &nbsp;Assistant Engineer, China Civil Environment Co., Ltd.
+- **2020.09-2021.02**: &nbsp;Assistant Engineer, China Earth Environment Co., Ltd.
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
 # 💬 Academic Conferences
