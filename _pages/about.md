@@ -24,7 +24,7 @@ redirect_from:
 - **2013.09 - 2017.06**: Bachelor of Engineering in Water Engineering, College of Hydrology and Water Resources, Hohai University
 
 # 🎖 Honors and Awards
-- **2024.03**: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st Sinuo Cup in IMT
+<!-- - **2024.03**: &nbsp;🎉🎉 Dual Champion in Badminton and Table Tennis, 1st Sinuo Cup in IMT -->
 - **2019.10**: &nbsp;🎉🎉 Best Poster Award, South China Sea Annual Meeting 2019
 
 # 💻 Internships and Works
