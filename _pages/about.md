@@ -36,6 +36,7 @@ redirect_from:
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
 # 💬 Academic Conferences
+- **2025.01**: The 7th Xiamen Symposiumon Marine Environmental Seienees (XMAS), Xiamen, **Oral**
 - **2024.04**: The General Assembly 2024 of the European Geosciences Union (EGU), Vienna, **Oral**
 - **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Oral**
 - **2023.05**: The 4th Lingfeng Student Forum, Xiamen, **Oral**
