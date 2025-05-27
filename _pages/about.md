@@ -60,6 +60,18 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_zhou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Impacts of Climate Modes on Interannual Mesoscale Eddy Variability in the Southeastern Tropical Indian Ocean](https://doi.org/10.1029/2025JC022470)
+
+Zhou Yifei, **Duan Wei**, Cheng Xuhua, Yang Chengcheng, Chen Jiajia (2024)
+
+Journal of Geophysical Research: Oceans, 130, e2025JC022470. https://doi.org/10.1029/2025JC022470
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='../images/gl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
