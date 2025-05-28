@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Educations
-- **2023.10 - 2024.10**: Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale (LOPS), Institut Universitaire Européen de la Mer (IUEM), Université de Bretagne Occidentale (UBO), collaborate with [Jonathan Gula](https://www.jgula.fr/), [Xavier Carton](https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/CARTON-Xavier/) and [Dante Napolitano](https://www.researchgate.net/profile/Dante-Napolitano)
+- **2023.10 - 2024.10**: Joint Ph.D, Laboratoire d'Océanographie Physique et Spatiale (LOPS), Institut Universitaire Européen de la Mer (IUEM), Université de Bretagne Occidentale (UBO), collaborate with [Jonathan Gula](https://www.jgula.fr/), [Xavier Carton](https://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/CARTON-Xavier/) and [Dante Campagnoli Napolitano](https://www.researchgate.net/profile/Dante-Napolitano)
 - **2021.09 - (now)**: Doctor of Science in Marine Science, College of Oceanography, Hohai University, supervised by [Prof. Cheng Xuhua](https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm)
 - **2017.09 - 2020.06**: Master of Science in Marine Science, College of Oceanography, Hohai University, supervised by [Prof. Cheng Xuhua](https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm)
 - **2013.09 - 2017.06**: Bachelor of Engineering in Water Engineering, College of Hydrology and Water Resources, Hohai University
