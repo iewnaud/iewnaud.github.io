@@ -65,7 +65,7 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 
 [Impacts of Climate Modes on Interannual Mesoscale Eddy Variability in the Southeastern Tropical Indian Ocean](https://doi.org/10.1029/2025JC022470)
 
-Zhou Yifei, **Duan Wei**, Cheng Xuhua, Yang Chengcheng, Chen Jiajia (2024)
+Zhou Yifei, **Duan Wei**, Cheng Xuhua, Yang Chengcheng, Chen Jiajia (2025)
 
 Journal of Geophysical Research: Oceans, 130, e2025JC022470. https://doi.org/10.1029/2025JC022470
 
