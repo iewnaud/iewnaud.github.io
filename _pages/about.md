@@ -72,18 +72,6 @@ Journal of Geophysical Research: Oceans, 130, e2025JC022470. https://doi.org/10.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='../images/gl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Features and mechanisms of sea surface salinity intraseasonal variability in the Northern Bay of Bengal](https://doi.org/10.1186/s40562-024-00334-w)
-
-Cui Rong, Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
-
-Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2024</div><img src='../images/od.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,6 +96,18 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2025</div><img src='../images/od_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Characteristics of submesoscale kinetic energy transfer in the southeast tropical Indian Ocean during 2011–2012](https://doi.org/10.1007/s10236-025-01699-y)
+
+Zhou Yifei,Cheng Xuhua, **Duan Wei**, (2025)
+
+Ocean Dynamics, 75, 54. https://doi.org/10.1007/s10236-025-01699-y
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2023</div><img src='../images/grl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -116,6 +116,18 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 Cheng Xuhua, Zhao Mingyu, **Duan Wei**, Jiang Long, Chen Jiajia, Yang Chengcheng, Zhou Yifei (2023)
 
 Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL102708
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='../images/gl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Features and mechanisms of sea surface salinity intraseasonal variability in the Northern Bay of Bengal](https://doi.org/10.1186/s40562-024-00334-w)
+
+Cui Rong, Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
+
+Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 
 </div>
 </div>
