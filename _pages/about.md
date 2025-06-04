@@ -60,18 +60,6 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
-
-**Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
-
-Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_zhou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -144,18 +132,6 @@ Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOL 2021</div><img src='../images/jol.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interannual variability of the spring Wyrtki Jet](https://doi.org/10.1007/s00343-020-9330-3)
-
-Deng Kangping, Cheng Xuhua, Feng Tao, Ma Tian, **Duan Wei**, Chen Jiajia (2021)
-
-Journal of Oceanology and Limnology, 39(1), 26-44. https://doi.org/10.1007/s00343-020-9330-3
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPO 2023</div><img src='../images/jpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -165,6 +141,30 @@ Cheng Xuhua, Li Lanman, Jing Zhiyou, Cao Haijin, Zhou Guidi, **Duan Wei**, Zhou 
 
 Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JPO-D-22-0078.1
   
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
+
+**Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
+
+Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOL 2021</div><img src='../images/jol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interannual variability of the spring Wyrtki Jet](https://doi.org/10.1007/s00343-020-9330-3)
+
+Deng Kangping, Cheng Xuhua, Feng Tao, Ma Tian, **Duan Wei**, Chen Jiajia (2021)
+
+Journal of Oceanology and Limnology, 39(1), 26-44. https://doi.org/10.1007/s00343-020-9330-3
+
 </div>
 </div>
 
