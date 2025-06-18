@@ -21,7 +21,9 @@ jobs:
     - name: Run crawler
       run: |
         cd google_scholar_crawler
+        echo "Start crawling"
         python3 main.py
+        echo "Done crawling"
         cd results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
