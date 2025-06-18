@@ -1,23 +1,28 @@
-from scholarly import scholarly
-import jsonpickle
+from scholarly import scholarly, ProxyGenerator
 import json
 from datetime import datetime
 import os
 
+# ✅ 启用代理绕过封锁
+pg = ProxyGenerator()
+pg.FreeProxies()
+scholarly.use_proxy(pg)
+
+# 🔍 Scholar 抓取逻辑
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-name = author['name']
 author['updated'] = str(datetime.now())
-author['publications'] = {v['author_pub_id']:v for v in author['publications']}
-print(json.dumps(author, indent=2))
+author['publications'] = {v['author_pub_id']: v for v in author['publications']}
+
+# 📝 保存结果
 os.makedirs('results', exist_ok=True)
-with open(f'results/gs_data.json', 'w') as outfile:
-    json.dump(author, outfile, ensure_ascii=False)
+with open('results/gs_data.json', 'w') as f:
+    json.dump(author, f, ensure_ascii=False)
 
 shieldio_data = {
-  "schemaVersion": 1,
-  "label": "citations",
-  "message": f"{author['citedby']}",
+    "schemaVersion": 1,
+    "label": "citations",
+    "message": f"{author['citedby']}",
 }
-with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
-    json.dump(shieldio_data, outfile, ensure_ascii=False)
+with open('results/gs_data_shieldsio.json', 'w') as f:
+    json.dump(shieldio_data, f, ensure_ascii=False)
