@@ -1,29 +1,33 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:  # ✅ 允许手动触发
+  schedule:
+    - cron: '0 8 * * *'  # 每天早上8点自动运行
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
     - uses: actions/checkout@v2
-    - name: Install Reqs
+
+    - name: Install dependencies
       run: |
+        sudo apt-get update
         sudo apt-get install python3-setuptools
-    - name: Run
+        pip3 install -r google_scholar_crawler/requirements.txt
+
+    - name: Run crawler
       run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
+        cd google_scholar_crawler
         python3 main.py
-        cd ./results
+        cd results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
+      env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
