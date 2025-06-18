@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 import os
 
-# ✅ 启用代理绕过封锁
+# ✅ 启用代理绕过封锁，注意传入 repeat 参数
 pg = ProxyGenerator()
-pg.FreeProxies()
+pg.FreeProxies(repeat=2)
 scholarly.use_proxy(pg)
 
 # 🔍 Scholar 抓取逻辑
