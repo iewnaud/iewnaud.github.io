@@ -49,7 +49,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2024</div><img src='../images/jgro.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2024</div><img src='../images/jgro.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characteristics of submesoscale compensated/reinforced fronts in the northern Bay of Bengal](https://doi.org/10.1029/2024JC021204)
@@ -61,7 +61,7 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_zhou.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_zhou.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Impacts of Climate Modes on Interannual Mesoscale Eddy Variability in the Southeastern Tropical Indian Ocean](https://doi.org/10.1029/2025JC022470)
@@ -73,7 +73,7 @@ Journal of Geophysical Research: Oceans, 130, e2025JC022470. https://doi.org/10.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2024</div><img src='../images/od.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2024</div><img src='../images/od.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamics of submesoscale processes and their influence on vertical heat transport in the southeastern tropical Indian Ocean](https://doi.org/10.1007/s10236-024-01628-5)
@@ -85,7 +85,7 @@ Ocean Dynamics, 74, 685–702. https://doi.org/10.1007/s10236-024-01628-5
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/dsri.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSRI 2024</div><img src='../images/dsri.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Seasonality and potential generation mechanisms of submesoscale processes in the northern Bay of Bengal](https://doi.org/10.1016/j.dsr.2024.104318) 
@@ -97,7 +97,7 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2025</div><img src='../images/od_2025.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OD 2025</div><img src='../images/od_2025.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characteristics of submesoscale kinetic energy transfer in the southeast tropical Indian Ocean during 2011–2012](https://doi.org/10.1007/s10236-025-01699-y)
@@ -109,7 +109,7 @@ Ocean Dynamics, 75, 54. https://doi.org/10.1007/s10236-025-01699-y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2023</div><img src='../images/grl.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2023</div><img src='../images/grl.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Regime Shift of the Sea Level Trend in the South China Sea Modulated by the Tropical Pacific Decadal Variability](https://doi.org/10.1029/2022GL102708)
@@ -121,7 +121,7 @@ Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL1
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='../images/gl.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GL 2024</div><img src='../images/gl.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Features and mechanisms of sea surface salinity intraseasonal variability in the Northern Bay of Bengal](https://doi.org/10.1186/s40562-024-00334-w)
@@ -133,7 +133,7 @@ Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPO 2023</div><img src='../images/jpo.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPO 2023</div><img src='../images/jpo.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Seasonal Features and Potential Mechanisms of Submesoscale Processes in the Southern Bay of Bengal During 2011-2012](https://doi.org/10.1175/JPO-D-22-0078.1)
@@ -145,7 +145,7 @@ Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
@@ -157,7 +157,7 @@ Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOL 2021</div><img src='../images/jol.png' alt="sym" style="width: 100%; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOL 2021</div><img src='../images/jol.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interannual variability of the spring Wyrtki Jet](https://doi.org/10.1007/s00343-020-9330-3)
