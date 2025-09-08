@@ -33,7 +33,7 @@ redirect_from:
 <!-- 
 - **2020.09-2021.02**: &nbsp;Assistant Engineer, China Earth Environment Co., Ltd.
 -->
-- **2025.07-now**: &nbsp;Postdoc, South China Sea Institute of Oceanology, Chinese Academy of Sciences
+- **2025.07-now**: &nbsp;Postdoc, South China Sea Institute of Oceanology, Chinese Academy of Sciences, co-mentor: [Prof. Jing Zhiyou]([https://hyxy.hhu.edu.cn/2017/0223/c8640a105011/page.htm](http://lto.scsio.ac.cn/dwjs/kyry/yjy/202504/t20250401_512001.html))
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
 # 💬 Academic Conferences
