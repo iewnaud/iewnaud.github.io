@@ -37,15 +37,16 @@ redirect_from:
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
 # 💬 Academic Conferences
+- **2025.10**: The 12th South China Sea Annual Meeting (SCSAM), Shenzhen
 - **2025.01**: The 7th Xiamen Symposiumon Marine Environmental Seienees (XMAS), Xiamen, **Oral**
 - **2024.04**: The General Assembly 2024 of the European Geosciences Union (EGU), Vienna, **Oral**
 - **2023.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Oral**
 - **2023.05**: The 4th Lingfeng Student Forum, Xiamen, **Oral**
 - **2022.12**: The 15th National Symposium on Ocean Data Assimilation and Numerical Simulation, Liyang, **Poster**
 - **2019.11**: The 10th International Workshop on Tropical Marine Environmental Changes (MEC 2019), Guangzhou, **Poster**
-- **2019.10**: South China Sea Annual Meeting (SCSAM), Sanya, **Poster**
+- **2019.10**: The 6th South China Sea Annual Meeting (SCSAM), Sanya, **Poster**
 - **2019.08**: Asia Oceania Geosciences Society (AOGS), Singapore, **Poster**
-- **2018.10**: South China Sea Annual Meeting (SCSAM), Nanjing 
+- **2018.10**: The 5th South China Sea Annual Meeting (SCSAM), Nanjing 
 
 # 📝 Publications 
 
