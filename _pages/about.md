@@ -50,7 +50,19 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2024</div><img src='../images/jgro.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2024</div><img src='../images/jgro_26.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Seasonal river discharge modulates submesoscale dynamics in the northern Bay of Bengal](https://doi.org/10.1029/2025JC023844)
+
+**Duan Wei**, Jing Zhiyou, Cheng Xuhua, Zhou Yifei, Jonathan Gula, Dante Campagnoli Napolitano, Xavier Carton (2026)
+
+Journal of Geophysical Research: Oceans, 129, e2025JC023844. https://doi.org/10.1029/2025JC023844
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_2024.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characteristics of submesoscale compensated/reinforced fronts in the northern Bay of Bengal](https://doi.org/10.1029/2024JC021204)
