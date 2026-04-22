@@ -57,7 +57,7 @@ redirect_from:
 
 **Duan Wei**, Jing Zhiyou, Cheng Xuhua, Zhou Yifei, Jonathan Gula, Dante Campagnoli Napolitano, Xavier Carton (2026)
 
-Journal of Geophysical Research: Oceans, 129, e2025JC023844. https://doi.org/10.1029/2025JC023844
+Journal of Geophysical Research: Oceans, 131, e2025JC023844. https://doi.org/10.1029/2025JC023844
 
 </div>
 </div>
