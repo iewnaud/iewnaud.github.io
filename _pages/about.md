@@ -74,6 +74,18 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
+
+**Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
+
+Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_zhou.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -158,17 +170,6 @@ Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JP
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
-
-**Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
-
-Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOL 2021</div><img src='../images/jol.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
