@@ -86,7 +86,7 @@ Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_zhou.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2025</div><img src='../images/jgro_2025.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Impacts of Climate Modes on Interannual Mesoscale Eddy Variability in the Southeastern Tropical Indian Ocean](https://doi.org/10.1029/2025JC022470)
@@ -127,7 +127,7 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 
 [Characteristics of submesoscale kinetic energy transfer in the southeast tropical Indian Ocean during 2011–2012](https://doi.org/10.1007/s10236-025-01699-y)
 
-Zhou Yifei,Cheng Xuhua, **Duan Wei**, (2025)
+Zhou Yifei, Cheng Xuhua, **Duan Wei**, (2025)
 
 Ocean Dynamics, 75, 54. https://doi.org/10.1007/s10236-025-01699-y
 
@@ -154,6 +154,18 @@ Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL1
 Cui Rong, Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
 
 Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR-O 2026b</div><img src='../images/jgro_2026b.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Springtime Intensification of Mesoscale Eddies in the Southeastern Tropical Indian Ocean](https://doi.org/10.1029/2025JC023723)
+
+Zhou Yifei, Cheng Xuhua, Song Xiangzhou, **Duan Wei** (2026) 
+
+Journal of Geophysical Research: Oceans, 131, e2025JC023723. https://doi.org/10.1029/2025JC023723
 
 </div>
 </div>
