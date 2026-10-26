@@ -37,9 +37,7 @@ redirect_from:
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
 # 📋 Research Funding
-- **2027.01 - 2029.12**: **Young Scientists Fund (Class C), National Natural Science Foundation of China (NSFC)**  
-  *Submesoscale Vertical Heat Transport Modulated by Mesoscale Eddies in the South China Sea*  
-  **CNY 300,000 · Principal Investigator**
+- **2027.01 - 2029.12**: **National Natural Science Foundation of China (NSFC) Young Scientists Fund (Class C)**, Submesoscale Vertical Heat Transport Modulated by Mesoscale Eddies in the South China Sea, ¥300K
 
 # 💬 Academic Conferences
 - **2025.10**: The 12th South China Sea Annual Meeting (SCSAM), Shenzhen, **Poster**
