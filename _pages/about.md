@@ -37,7 +37,7 @@ redirect_from:
 - **2025.07-now**: &nbsp;Postdoc, South China Sea Institute of Oceanology, Chinese Academy of Sciences, co-mentor: [Prof. Jing Zhiyou](http://lto.scsio.ac.cn/dwjs/kyry/yjy/202504/t20250401_512001.html)
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
-# 💰 Research Funding
+# 🔬 Research Funding
 - **2027.01 - 2029.12**: **Young Scientists Fund (Class C), National Natural Science Foundation of China (NSFC)**  
   *Submesoscale Vertical Heat Transport Modulated by Mesoscale Eddies in the South China Sea*  
   **CNY 300,000 · Principal Investigator**
