@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 title: ""
@@ -37,7 +36,7 @@ redirect_from:
 - **2025.07-now**: &nbsp;Postdoc, South China Sea Institute of Oceanology, Chinese Academy of Sciences, co-mentor: [Prof. Jing Zhiyou](http://lto.scsio.ac.cn/dwjs/kyry/yjy/202504/t20250401_512001.html)
 - **2019.03-2019.05**: &nbsp;Eastern Indian Ocean shared voyage by the National Natural Science Foundation of China
 
-# 🔬 Research Funding
+# 📋 Research Funding
 - **2027.01 - 2029.12**: **Young Scientists Fund (Class C), National Natural Science Foundation of China (NSFC)**  
   *Submesoscale Vertical Heat Transport Modulated by Mesoscale Eddies in the South China Sea*  
   **CNY 300,000 · Principal Investigator**
@@ -82,9 +81,7 @@ Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
-
 &nbsp; 
-
 [Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
 
 **Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
@@ -144,7 +141,7 @@ Ocean Dynamics, 75, 54. https://doi.org/10.1007/s10236-025-01699-y
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2023</div><img src='../images/grl.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
-
+&nbsp; 
 [Regime Shift of the Sea Level Trend in the South China Sea Modulated by the Tropical Pacific Decadal Variability](https://doi.org/10.1029/2022GL102708)
 
 Cheng Xuhua, Zhao Mingyu, **Duan Wei**, Jiang Long, Chen Jiajia, Yang Chengcheng, Zhou Yifei (2023)
@@ -180,9 +177,7 @@ Journal of Geophysical Research: Oceans, 131, e2025JC023723. https://doi.org/10.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPO 2023</div><img src='../images/jpo.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
-
 &nbsp; 
-
 [Seasonal Features and Potential Mechanisms of Submesoscale Processes in the Southern Bay of Bengal During 2011-2012](https://doi.org/10.1175/JPO-D-22-0078.1)
 &nbsp; 
 Cheng Xuhua, Li Lanman, Jing Zhiyou, Cao Haijin, Zhou Guidi, **Duan Wei**, Zhou Yifei (2023). 
@@ -204,5 +199,3 @@ Journal of Oceanology and Limnology, 39(1), 26-44. https://doi.org/10.1007/s0034
 
 </div>
 </div>
-
-```
