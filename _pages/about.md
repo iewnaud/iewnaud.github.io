@@ -130,7 +130,7 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318.
 
 [Characteristics of submesoscale kinetic energy transfer in the southeast tropical Indian Ocean during 2011–2012](https://doi.org/10.1007/s10236-025-01699-y)
 
-Zhou Yifei, Cheng Xuhua, **Duan Wei**, (2025)
+Zhou Yifei, Cheng Xuhua, **Duan Wei** (2025)
 
 Ocean Dynamics, 75, 54.
 
