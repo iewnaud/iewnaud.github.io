@@ -175,7 +175,7 @@ Journal of Geophysical Research: Oceans, 131, e2025JC023723.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPO 2023</div><img src='../images/jpo.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
-&nbsp; 
+
 [Seasonal Features and Potential Mechanisms of Submesoscale Processes in the Southern Bay of Bengal During 2011-2012](https://doi.org/10.1175/JPO-D-22-0078.1)
 &nbsp; 
 Cheng Xuhua, Li Lanman, Jing Zhiyou, Cao Haijin, Zhou Guidi, **Duan Wei**, Zhou Yifei (2023). 
