@@ -60,7 +60,7 @@ redirect_from:
 
 **Duan Wei**, Jing Zhiyou, Cheng Xuhua, Zhou Yifei, Jonathan Gula, Dante Campagnoli Napolitano, Xavier Carton (2026)
 
-Journal of Geophysical Research: Oceans, 131, e2025JC023844. https://doi.org/10.1029/2025JC023844
+Journal of Geophysical Research: Oceans, 131, e2025JC023844.
 
 </div>
 </div>
@@ -72,19 +72,19 @@ Journal of Geophysical Research: Oceans, 131, e2025JC023844. https://doi.org/10.
 
 **Duan Wei**, Cheng Xuhua, Zhou Yifei, Jonathan Gula (2024)
 
-Journal of Geophysical Research: Oceans, 129, e2024JC021204. https://doi.org/10.1029/2024JC021204
+Journal of Geophysical Research: Oceans, 129, e2024JC021204.
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AOS 2021</div><img src='../images/aos.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
-&nbsp; 
+
 [Variability in upper-ocean salinity stratification in the tropical Pacific Ocean](https://doi.org/10.1007/s13131-020-1597-x)
 
 **Duan Wei**, Cheng Xuhua, Zhu Xiuhua, Ma Tian (2021)
 
-Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
+Acta Oceanologica Sinica, 40, 113-125.
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Acta Oceanologica Sinica, 40, 113-125. https://doi.org/10.1007/s13131-020-1597-x
 
 Zhou Yifei, **Duan Wei**, Cheng Xuhua, Yang Chengcheng, Chen Jiajia (2025)
 
-Journal of Geophysical Research: Oceans, 130, e2025JC022470. https://doi.org/10.1029/2025JC022470
+Journal of Geophysical Research: Oceans, 130, e2025JC022470.
 
 </div>
 </div>
@@ -108,7 +108,7 @@ Journal of Geophysical Research: Oceans, 130, e2025JC022470. https://doi.org/10.
 
 Zhou Yifei, **Duan Wei**, Cheng Xuhua (2024) 
 
-Ocean Dynamics, 74, 685–702. https://doi.org/10.1007/s10236-024-01628-5
+Ocean Dynamics, 74, 685–702.
 
 </div>
 </div>
@@ -120,7 +120,7 @@ Ocean Dynamics, 74, 685–702. https://doi.org/10.1007/s10236-024-01628-5
 
 Zhou Yifei, **Duan Wei**, Cao Haijin, Zhou Guidi, Cui Rong, Cheng Xuhua (2024)
 
-Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://doi.org/10.1016/j.dsr.2024.104318
+Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318.
 &nbsp; 
 </div>
 </div>
@@ -132,19 +132,19 @@ Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318. https://do
 
 Zhou Yifei, Cheng Xuhua, **Duan Wei**, (2025)
 
-Ocean Dynamics, 75, 54. https://doi.org/10.1007/s10236-025-01699-y
+Ocean Dynamics, 75, 54.
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2023</div><img src='../images/grl.png' alt="sym" style="width: 380px; height: 200px; object-fit: fill;"></div></div>
 <div class='paper-box-text' markdown="1">
-&nbsp; 
+
 [Regime Shift of the Sea Level Trend in the South China Sea Modulated by the Tropical Pacific Decadal Variability](https://doi.org/10.1029/2022GL102708)
 
 Cheng Xuhua, Zhao Mingyu, **Duan Wei**, Jiang Long, Chen Jiajia, Yang Chengcheng, Zhou Yifei (2023)
 
-Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL102708
+Geophysical Research Letters, 50, e2022GL102708.
 
 </div>
 </div>
@@ -156,7 +156,7 @@ Geophysical Research Letters, 50, e2022GL102708. https://doi.org/10.1029/2022GL1
 
 Cui Rong, Cheng Xuhua, **Duan Wei**, Jiang Long, Zhou Yifei (2024) 
 
-Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
+Geoscience Letters, 11(1), 20.
 
 </div>
 </div>
@@ -168,7 +168,7 @@ Geoscience Letters, 11(1), 20. https://doi.org/10.1186/s40562-024-00334-w
 
 Zhou Yifei, Cheng Xuhua, Song Xiangzhou, **Duan Wei** (2026) 
 
-Journal of Geophysical Research: Oceans, 131, e2025JC023723. https://doi.org/10.1029/2025JC023723
+Journal of Geophysical Research: Oceans, 131, e2025JC023723.
 
 </div>
 </div>
@@ -180,7 +180,7 @@ Journal of Geophysical Research: Oceans, 131, e2025JC023723. https://doi.org/10.
 &nbsp; 
 Cheng Xuhua, Li Lanman, Jing Zhiyou, Cao Haijin, Zhou Guidi, **Duan Wei**, Zhou Yifei (2023). 
 
-Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JPO-D-22-0078.1
+Journal of Physical Oceanography, 53(4), 1199–1217.
 &nbsp; 
 </div>
 </div>
@@ -193,7 +193,7 @@ Journal of Physical Oceanography, 53(4), 1199–1217. https://doi.org/10.1175/JP
 
 Deng Kangping, Cheng Xuhua, Feng Tao, Ma Tian, **Duan Wei**, Chen Jiajia (2021)
 
-Journal of Oceanology and Limnology, 39(1), 26-44. https://doi.org/10.1007/s00343-020-9330-3
+Journal of Oceanology and Limnology, 39(1), 26-44.
 
 </div>
 </div>
