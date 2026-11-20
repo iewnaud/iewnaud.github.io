@@ -121,7 +121,7 @@ Ocean Dynamics, 74, 685–702.
 Zhou Yifei, **Duan Wei**, Cao Haijin, Zhou Guidi, Cui Rong, Cheng Xuhua (2024)
 
 Deep Sea Research Part I: Oceanographic Research Papers, 208, 104318.
-&nbsp; 
+
 </div>
 </div>
 
@@ -177,11 +177,11 @@ Journal of Geophysical Research: Oceans, 131, e2025JC023723.
 <div class='paper-box-text' markdown="1">
 
 [Seasonal Features and Potential Mechanisms of Submesoscale Processes in the Southern Bay of Bengal During 2011-2012](https://doi.org/10.1175/JPO-D-22-0078.1)
-&nbsp; 
+
 Cheng Xuhua, Li Lanman, Jing Zhiyou, Cao Haijin, Zhou Guidi, **Duan Wei**, Zhou Yifei (2023). 
 
 Journal of Physical Oceanography, 53(4), 1199–1217.
-&nbsp; 
+
 </div>
 </div>
 
